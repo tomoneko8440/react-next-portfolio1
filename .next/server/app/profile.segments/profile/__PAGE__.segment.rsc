@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"/react-next-portfolio/_next/static/chunks/20r82peuly0ig.js"
+3:I[70119,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:"/react-next-portfolio/_next/static/chunks/1hbk8cx52dq-6.js"
+6:I[8821,["$2","$5"],"default"]
+7:I[37457,["$2"],"default"]
+8:I[22016,["$2"],""]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+17:I[27201,["$2"],"IconMark"]
+:HL["/react-next-portfolio/_next/static/chunks/0qh8d-5kwi3ie.css","style"]
+:HL["/react-next-portfolio/_next/static/chunks/0r7slme5wex7q.css","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","div",null,{"className":"koCuRq_pageHeader","children":[["$","p",null,{"className":"koCuRq_role","children":"Webエンジニア"}],["$","h1",null,{"className":"koCuRq_pageTitle","children":"プロフィール"}]]}],["$","section",null,{"className":"koCuRq_section","children":[["$","h2",null,{"className":"koCuRq_heading","children":"About"}],["$","div",null,{"className":"koCuRq_about","children":[["$","p","ここに自己紹介を入れます。これまでの経験や得意なことを書きましょう。",{"children":"ここに自己紹介を入れます。これまでの経験や得意なことを書きましょう。"}],["$","p","段落を増やしたいときは、この行をコピーして追加します。",{"children":"段落を増やしたいときは、この行をコピーして追加します。"}]]}]]}],["$","section",null,{"className":"koCuRq_section","children":[["$","h2",null,{"className":"koCuRq_heading","children":"Skills"}],["$","div",null,{"className":"koCuRq_skills","children":[["$","div","フロントエンド",{"children":[["$","h3",null,{"className":"koCuRq_skillCategory","children":"フロントエンド"}],["$","ul",null,{"className":"koCuRq_tags","children":[["$","li","HTML",{"className":"koCuRq_tag","children":"HTML"}],["$","li","CSS",{"className":"koCuRq_tag","children":"CSS"}],["$","li","TypeScript",{"className":"koCuRq_tag","children":"TypeScript"}],["$","li","React",{"className":"koCuRq_tag","children":"React"}],["$","li","Next.js",{"className":"koCuRq_tag","children":"Next.js"}]]}]]}],["$","div","ツール",{"children":[["$","h3",null,{"className":"koCuRq_skillCategory","children":"ツール"}],["$","ul",null,{"className":"koCuRq_tags","children":[["$","li","Git",{"className":"koCuRq_tag","children":"Git"}],["$","li","GitHub",{"className":"koCuRq_tag","children":"GitHub"}],["$","li","VS Code",{"className":"koCuRq_tag","children":"VS Code"}]]}]]}]]}]]}],["$","section",null,{"className":"koCuRq_section","children":[["$","h2",null,{"className":"koCuRq_heading","children":"Career"}],["$","ol",null,{"className":"koCuRq_career","children":[["$","li","20XX年 - 現在-会社名・学校名など",{"className":"koCuRq_careerItem","children":[["$","p",null,{"className":"koCuRq_period","children":"20XX年 - 現在"}],["$","div",null,{"children":[["$","h3",null,{"className":"koCuRq_careerTitle","children":"会社名・学校名など"}],["$","p",null,{"className":"koCuRq_careerDescription","children":"ここに内容を入れます。"}]]}]]}],["$","li","20XX年 - 20XX年-会社名・学校名など",{"className":"koCuRq_careerItem","children":[["$","p",null,{"className":"koCuRq_period","children":"20XX年 - 20XX年"}],["$","div",null,{"children":[["$","h3",null,{"className":"koCuRq_careerTitle","children":"会社名・学校名など"}],["$","p",null,{"className":"koCuRq_careerDescription","children":"ここに内容を入れます。"}]]}]]}]]}]]}],["$","section",null,{"className":"koCuRq_section","children":[["$","h2",null,{"className":"koCuRq_heading","children":"Contact"}],["$","p",null,{"className":"koCuRq_contactMessage","children":"お仕事のご相談やご連絡は、こちらからお願いします。"}],["$","ul",null,{"className":"koCuRq_links","children":[["$","li","mailto:your-email@example.com",{"children":["$","a",null,{"href":"mailto:your-email@example.com","className":"koCuRq_button","children":"メール"}]}],["$","li","https://github.com/tomoneko8440",{"children":["$","a",null,{"href":"https://github.com/tomoneko8440","className":"koCuRq_button","children":"GitHub"}]}]]}]]}]],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$a"}}]]
+b:[["children",{"s":"profile","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/react-next-portfolio/_next/static/chunks/0qh8d-5kwi3ie.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/react-next-portfolio/_next/static/chunks/0r7slme5wex7q.css","precedence":"next"}],["$","script","script-0",{"src":"/react-next-portfolio/_next/static/chunks/20r82peuly0ig.js","async":true}]],["$","html",null,{"lang":"ja","style":{"--accent":"#d9480f"},"children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"koCuRq_skipLink","children":"本文へ移動"}],["$","$L3",null,{}],["$","main",null,{"id":"main","className":"koCuRq_main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$6","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/react-next-portfolio/_next/static/chunks/1hbk8cx52dq-6.js","async":true}]],"template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"koCuRq_message","children":[["$","p",null,{"className":"koCuRq_role","children":"404"}],["$","h1",null,{"className":"koCuRq_pageTitle","children":"ページが見つかりません"}],["$","p",null,{"className":"koCuRq_muted","children":"削除されたか、URLが間違っている可能性があります。"}],["$","$L8",null,{"href":"/","className":"koCuRq_button","children":"トップページへ戻る"}]]}],[]]}]}],["$","footer",null,{"className":"koCuRq_footer","children":["$","small",null,{"children":["© ",2026," ","智猫"]}]}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"プロフィール | 智猫のポートフォリオ"}],["$","meta","1",{"name":"description","content":"智猫の自己紹介、スキル、経歴、連絡先を紹介します。"}],["$","link","2",{"rel":"icon","href":"/react-next-portfolio/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","3",{}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$a"}},"a":"$@19","u":"$@1a","b":"jcRoYRJMl9auJNTliISUO"}
+11:null
+a:300
+1a:true
+a:C
+19:0
+c:"$undefined"
+9:"$undefined"
+18:"$undefined"
+12:"$undefined"

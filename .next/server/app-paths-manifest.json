@@ -1,0 +1,11 @@
+{
+  "/(lists)/blogs/page": "app/(lists)/blogs/page.js",
+  "/(lists)/page": "app/(lists)/page.js",
+  "/(lists)/works/page": "app/(lists)/works/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blogs/[id]/page": "app/blogs/[id]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/profile/page": "app/profile/page.js",
+  "/works/[id]/page": "app/works/[id]/page.js"
+}

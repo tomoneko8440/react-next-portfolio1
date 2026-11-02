@@ -1,0 +1,3 @@
+module.exports=[78141,a=>{"use strict";var b=a.i(87924),c=a.i(57996);a.s(["default",0,function({reset:a}){return(0,b.jsxs)("div",{className:c.default.message,children:[(0,b.jsx)("h1",{className:c.default.pageTitle,children:"読み込みに失敗しました"}),(0,b.jsx)("p",{className:c.default.muted,children:"時間をおいて、もう一度お試しください。"}),(0,b.jsx)("button",{type:"button",onClick:a,className:c.default.button,children:"再読み込み"})]})}])}];
+
+//# sourceMappingURL=app_error_tsx_20-epnwvpd-v1._.js.map

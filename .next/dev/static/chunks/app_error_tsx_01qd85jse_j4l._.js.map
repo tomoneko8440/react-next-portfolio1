@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tomon/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/react-next-portfolio/app/error.tsx"],"sourcesContent":["\"use client\";\n\nimport styles from \"./site.module.css\";\n\ntype Props = {\n  reset: () => void;\n};\n\nexport default function Error({ reset }: Props) {\n  return (\n    <div className={styles.message}>\n      <h1 className={styles.pageTitle}>読み込みに失敗しました</h1>\n      <p className={styles.muted}>時間をおいて、もう一度お試しください。</p>\n      <button type=\"button\" onClick={reset} className={styles.button}>\n        再読み込み\n      </button>\n    </div>\n  );\n}\n"],"names":["Error","reset","className","message","pageTitle","muted","type","onClick","button"],"mappings":";;;;;AAEA;AAFA;;;AAQe,SAASA,MAAM,EAAEC,KAAK,EAAS;IAC5C,qBACE,6LAAC;QAAIC,WAAW,qIAAM,CAACC,OAAO;;0BAC5B,6LAAC;gBAAGD,WAAW,qIAAM,CAACE,SAAS;0BAAE;;;;;;0BACjC,6LAAC;gBAAEF,WAAW,qIAAM,CAACG,KAAK;0BAAE;;;;;;0BAC5B,6LAAC;gBAAOC,MAAK;gBAASC,SAASN;gBAAOC,WAAW,qIAAM,CAACM,MAAM;0BAAE;;;;;;;;;;;;AAKtE;KAVwBR"}}]
+}

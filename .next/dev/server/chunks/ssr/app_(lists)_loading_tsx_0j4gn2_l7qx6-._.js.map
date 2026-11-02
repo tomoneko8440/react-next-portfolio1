@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tomon/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/react-next-portfolio/app/(lists)/loading.tsx"],"sourcesContent":["import styles from \"@/app/site.module.css\";\n\nexport default function Loading() {\n  return (\n    <p className={styles.message} role=\"status\">\n      読み込み中...\n    </p>\n  );\n}\n"],"names":["Loading","className","message","role"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAEC,WAAW,kIAAM,CAACC,OAAO;QAAEC,MAAK;kBAAS;;;;;;AAIhD"}}]
+}

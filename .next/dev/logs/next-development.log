@@ -1,0 +1,3 @@
+{"timestamp":"00:00:01.091","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:08.166","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:01:36.989","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\tomon\\\\OneDrive\\\\ドキュメント\\\\react-next-portfolio\\\\node_modules\\\\shebang-command\")."}

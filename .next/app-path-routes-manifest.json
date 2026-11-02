@@ -1,0 +1,11 @@
+{
+  "/(lists)/blogs/page": "/blogs",
+  "/(lists)/page": "/",
+  "/(lists)/works/page": "/works",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/blogs/[id]/page": "/blogs/[id]",
+  "/favicon.ico/route": "/favicon.ico",
+  "/profile/page": "/profile",
+  "/works/[id]/page": "/works/[id]"
+}

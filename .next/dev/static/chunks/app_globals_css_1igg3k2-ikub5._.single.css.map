@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/globals.css"],"sourcesContent":[":root {\n  --background: #faf8f5;\n  --surface: #ffffff;\n  --foreground: #1f1d1a;\n  --muted: #68635b;\n  --border: #e4dfd7;\n  --accent-text: var(--accent);\n  --max-width: 960px;\n  color-scheme: light dark;\n}\n\n@media (prefers-color-scheme: dark) {\n  :root {\n    --background: #16140f;\n    --surface: #211e18;\n    --foreground: #f3efe8;\n    --muted: #a9a297;\n    --border: #38332a;\n    --accent-text: color-mix(in srgb, var(--accent) 60%, white);\n  }\n}\n\n* {\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n}\n\nhtml {\n  scroll-padding-top: 80px;\n}\n\nbody {\n  background: var(--background);\n  color: var(--foreground);\n  font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\",\n    Meiryo, system-ui, sans-serif;\n  line-height: 1.8;\n}\n\na {\n  color: inherit;\n}\n\nul,\nol {\n  list-style: none;\n}\n\n:focus-visible {\n  outline: 3px solid var(--accent-text);\n  outline-offset: 2px;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;AAAA;EAAA;;;;;;;;;;;;AAsBA;;;;;;AAMA;;;;AAIA;;;;;;;AAQA;;;;AAIA;;;;AAKA"}}]
+}
